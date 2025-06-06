@@ -6,7 +6,7 @@ This is simple small Fitness Booking API project to demonstrate the implementati
 ```
 git clone https://github.com/heetp0101/Fitness-Booking-API.git
 ```
-3. Install neccessary libraries
+2. Install neccessary libraries
   ```
   pip install -r requirements.txt
   ```
@@ -21,7 +21,6 @@ git clone https://github.com/heetp0101/Fitness-Booking-API.git
    ```
 
 4. Run the curl command in cmd terminal to run API end points
-
     > API request /classes (to fetch and display upcoming classes)
     ```
     curl http://127.0.0.1:8000/classes
