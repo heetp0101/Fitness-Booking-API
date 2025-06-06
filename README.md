@@ -4,7 +4,7 @@ This is simple small Fitness Booking API project to demonstrate the implementati
 
 1. Clone the Git Repository\
 `
-https://github.com/heetp0101/Fitness-Booking-API.git
+git clone https://github.com/heetp0101/Fitness-Booking-API.git
 `
 3. Install neccessary libraries
   ```
