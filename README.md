@@ -30,7 +30,7 @@ This is simple small Fitness Booking API project to demonstrate the implementati
   ```
   > API request /bookings (to fetch the client bookings )
   ```
-  curl "http://127.0.0.1:8000/bookings?client_email=chirag123@gmail.com"
+  curl "http://127.0.0.1:8000/bookings?client_email=sanket.patil@gmail.com"
   ```
 
 
