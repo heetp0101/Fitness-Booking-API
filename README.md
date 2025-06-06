@@ -2,7 +2,7 @@ This is simple small Fitness Booking API project to demonstrate the implementati
 
 ## Steps to run Fitness Booking API 
 
-1. Clone the Git Repository\
+1. Clone the Git Repository
 ```
 git clone https://github.com/heetp0101/Fitness-Booking-API.git
 ```
