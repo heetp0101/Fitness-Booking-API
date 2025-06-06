@@ -2,11 +2,11 @@ This is simple small Fitness Booking API project to demonstrate the implementati
 
 ## Steps to run Fitness Booking API 
 
-1. Clone the Git Repo\
-  `
-  https://github.com/heetp0101/Fitness-Booking-API.git
-  `
-2. Install neccessary libraries
+1. Clone the Git Repository\
+`
+https://github.com/heetp0101/Fitness-Booking-API.git
+`
+3. Install neccessary libraries
   ```
   pip install -r requirements.txt
   ```
