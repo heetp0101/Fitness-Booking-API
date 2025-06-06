@@ -22,17 +22,17 @@ git clone https://github.com/heetp0101/Fitness-Booking-API.git
 
 4. Run the curl command in cmd terminal to run API end points
 
-  > API request /classes (to fetch and display upcoming classes)
-  ```
-  curl http://127.0.0.1:8000/classes
-  ```
-  > API request /book (to book a class with parameters like class_id, client_name and client_email)
-  ```
-  curl -X POST http://127.0.0.1:8000/book -H "Content-Type: application/json" -d "{\"class_id\": 1, \"client_name\": \"Sanket\", \"client_email\": \"sanket.patil@gmail.com\"}"
-  ```
-  > API request /bookings (to fetch the client bookings )
-  ```
-  curl "http://127.0.0.1:8000/bookings?client_email=sanket.patil@gmail.com"
-  ```
+    > API request /classes (to fetch and display upcoming classes)
+    ```
+    curl http://127.0.0.1:8000/classes
+    ```
+    > API request /book (to book a class with parameters like class_id, client_name and client_email)
+    ```
+    curl -X POST http://127.0.0.1:8000/book -H "Content-Type: application/json" -d "{\"class_id\": 1, \"client_name\": \"Sanket\", \"client_email\": \"sanket.patil@gmail.com\"}"
+    ```
+    > API request /bookings (to fetch the client bookings )
+    ```
+    curl "http://127.0.0.1:8000/bookings?client_email=sanket.patil@gmail.com"
+    ```
 
 
