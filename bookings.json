@@ -1,0 +1,17 @@
+[
+    {
+        "class_id": 1,
+        "client_name": "Jay",
+        "client_email": "jay.patel@gmail.com"
+    },
+    {
+        "class_id": 2,
+        "client_name": "Smith",
+        "client_email": "smith.patel@gmail.com"
+    },
+    {
+        "class_id": 2,
+        "client_name": "Bhavesh",
+        "client_email": "bhavesh123@gmail.com"
+    }
+]
